@@ -118,87 +118,13 @@
             }
           },
           {
-            "id": "4a7b9fd8194268bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech Study/Comms/Meshtastic/General Tips.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General Tips"
-            }
-          },
-          {
-            "id": "bb30d250d792a9d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/Create a bootable USB stick.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Create a bootable USB stick"
-            }
-          },
-          {
-            "id": "cfec9d1555d65744",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech Study/Linux/Ubuntu Linux Command Line for Beginners.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ubuntu Linux Command Line for Beginners"
-            }
-          },
-          {
-            "id": "2f389753d4e2d085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech Study/Git/First Time Git Setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "First Time Git Setup"
-            }
-          },
-          {
-            "id": "33b45e7da42019e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech Study/Git/Git Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git Cheat Sheet"
-            }
-          },
-          {
             "id": "4974c9aa28ab81b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/Create a bootable USB stick.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Create a bootable USB stick"
+              "title": "New tab"
             }
           },
           {
@@ -216,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -289,7 +215,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Study/Git/Git Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +224,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Git Cheat Sheet"
+              "title": "Backlinks"
             }
           },
           {
@@ -380,44 +305,51 @@
   },
   "active": "c07ba2a343dbcfa6",
   "lastOpenFiles": [
+    "PersonalLibrary/Projects/Tech Projects/Practical + Necessary/Meshtastic Weather Station Node/Meshtastic Solar Node",
+    "PersonalLibrary/Projects/Tech Projects/Practical + Necessary/Meshtastic Weather Station Node",
+    "PersonalLibrary/Projects/Tech Projects/Practical + Necessary",
+    "PersonalLibrary/Projects/Tech Projects",
+    "PersonalLibrary/Projects",
+    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317124011.png",
+    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317124049.png",
+    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317122604.png",
+    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317123944.png",
+    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317122335.png",
+    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317121841.png",
+    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/_sphinx_javascript_frameworks_compat.js.download",
+    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/youtube.css",
+    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/terminal.css",
+    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/sphinx_highlight.js.download",
+    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/sphinx-design.min.css",
+    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/related-links.css",
+    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/Create a bootable USB stick.md",
+    "PersonalLibrary/Tech Study/Comms/Meshtastic/Meshtastic Overview.md",
+    "PersonalLibrary/Tech Study/Comms/Meshtastic/General Tips.md",
+    "PersonalLibrary/Tech Study/Linux/Ubuntu Linux Command Line for Beginners.md",
+    "PersonalLibrary/Tech Study/Linux/Linux - Text Manipulation and Navigation.md",
+    "PersonalLibrary/Tech Study/Linux/Linux - General Notes.md",
+    "PersonalLibrary/Tech Study/Linux/Linux - Command Line.md",
+    "PersonalLibrary/Tech Study/Git/Git Cheat Sheet.md",
+    "PersonalLibrary/Tech Study/Git/First Time Git Setup.md",
+    "PersonalLibrary/Political Study/Untitled.md",
+    "PersonalLibrary/Political Study/Towards an Understanding of the Historical Continuum of the American Capitalist Class - From the 1700s Slave-Breeding Class to the 2000s Nation-Devouring Class.md",
+    "PersonalLibrary/Political Study/Towards a Principled use of the Concept of a 'Useful Failure of Policy' in the context.md",
+    "PersonalLibrary/Political Study/Response to suemencat's response to Left-Wing Childishness.md",
+    "PersonalLibrary/Political Study/Notes on THE 2026 BILLIONAIRE TAX ACT.md",
+    "PersonalLibrary/Political Study/March 2026 Study.md",
+    "PersonalLibrary/Political Study/February 2026 Study.md",
+    "PersonalLibrary/README.md",
     "Tech Study/Git/First Time Git Setup.md",
     "Tech Study/Git/Git Cheat Sheet.md",
     "Tech Study/Linux/Ubuntu Linux Command Line for Beginners.md",
-    "Windows",
-    "Tech Study/Git",
     "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/Create a bootable USB stick.md",
     "Tech Study/Linux/Linux - Text Manipulation and Navigation.md",
     "Tech Study/Linux/Linux - Command Line.md",
     "Tech Study/Linux/Linux - General Notes.md",
     "Tech Study/Comms/Meshtastic/Meshtastic Overview.md",
-    "Tech Study/Comms/Meshtastic/General Tips.md",
-    "Projects/Tech Projects/Practical + Necessary/Meshtastic Weather Station Node/Meshtastic Solar Node",
-    "Projects/Tech Projects/Practical + Necessary/Meshtastic Weather Station Node",
-    "Projects/Tech Projects/Practical + Necessary",
-    "Projects/Tech Projects",
-    "Projects",
-    "Tech Study/Comms/Meshtastic",
-    "Tech Study/Comms",
     "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317121841.png",
-    "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages",
     "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317123944.png",
     "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317124049.png",
-    "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317124011.png",
-    "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317122335.png",
-    "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317122604.png",
-    "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/download-etcher.png",
-    "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/rufus-iso-selected.png",
-    "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/rufus-isohybrid-image.png",
-    "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/startup-disk-creator.png",
-    "Lavender & Red.md",
-    "Political Study/March 2026 Study.md",
-    "Political Study/February 2026 Study.md",
-    "Political Study/Towards an Understanding of the Historical Continuum of the American Capitalist Class - From the 1700s Slave-Breeding Class to the 2000s Nation-Devouring Class.md",
-    "Political Study/Towards a Principled use of the Concept of a 'Useful Failure of Policy' in the context.md",
-    "Political Study/Untitled.md",
-    "Political Study/Response to suemencat's response to Left-Wing Childishness.md",
-    "Political Study/Notes on THE 2026 BILLIONAIRE TAX ACT.md",
-    "Towards a Broad History of the North American Capitalist Class.md",
-    "Welcome.md"
+    "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317124011.png"
   ]
 }
