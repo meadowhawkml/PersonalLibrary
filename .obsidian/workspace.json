@@ -121,10 +121,28 @@
             "id": "4974c9aa28ab81b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PersonalLibrary/Tech Study/Theoretical Study/Linux/Linux - Text Manipulation and Navigation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Linux - Text Manipulation and Navigation"
+            }
+          },
+          {
+            "id": "3f927b858c7e6830",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PersonalLibrary/Tech Study/Theoretical Study/Linux/Linux - General Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux - General Notes"
             }
           },
           {
@@ -142,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -215,6 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PersonalLibrary/Tech Study/Practical Study/Solar/Solar Power Design for Small Structures.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +243,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Solar Power Design for Small Structures"
             }
           },
           {
@@ -303,53 +322,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "c07ba2a343dbcfa6",
+  "active": "3f927b858c7e6830",
   "lastOpenFiles": [
-    "PersonalLibrary/Projects/Tech Projects/Practical + Necessary/Meshtastic Weather Station Node/Meshtastic Solar Node",
-    "PersonalLibrary/Projects/Tech Projects/Practical + Necessary/Meshtastic Weather Station Node",
-    "PersonalLibrary/Projects/Tech Projects/Practical + Necessary",
-    "PersonalLibrary/Projects/Tech Projects",
-    "PersonalLibrary/Projects",
-    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317124011.png",
-    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317124049.png",
-    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317122604.png",
-    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317123944.png",
-    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317122335.png",
-    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317121841.png",
-    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/_sphinx_javascript_frameworks_compat.js.download",
-    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/youtube.css",
-    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/terminal.css",
-    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/sphinx_highlight.js.download",
-    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/sphinx-design.min.css",
-    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/related-links.css",
-    "PersonalLibrary/Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/Create a bootable USB stick.md",
-    "PersonalLibrary/Tech Study/Comms/Meshtastic/Meshtastic Overview.md",
-    "PersonalLibrary/Tech Study/Comms/Meshtastic/General Tips.md",
-    "PersonalLibrary/Tech Study/Linux/Ubuntu Linux Command Line for Beginners.md",
-    "PersonalLibrary/Tech Study/Linux/Linux - Text Manipulation and Navigation.md",
-    "PersonalLibrary/Tech Study/Linux/Linux - General Notes.md",
-    "PersonalLibrary/Tech Study/Linux/Linux - Command Line.md",
-    "PersonalLibrary/Tech Study/Git/Git Cheat Sheet.md",
-    "PersonalLibrary/Tech Study/Git/First Time Git Setup.md",
-    "PersonalLibrary/Political Study/Untitled.md",
+    "PersonalLibrary/Tech Study/Theoretical Study/Linux/Linux - Advanced Text Manipulation.md",
+    "PersonalLibrary/Tech Study/Theoretical Study/Linux/Linux - Text Manipulation and Navigation.md",
+    "PersonalLibrary/Tech Study/Theoretical Study/Linux/Ubuntu Linux Command Line for Beginners.md",
+    "PersonalLibrary/Tech Study/Low-Tech Magazine/How to Build a Solar Powered Electric Oven _ LOW←TECH MAGAZINE.pdf",
+    "PersonalLibrary/Tech Study/Low-Tech Magazine/Get Wired (Again)_ Trolleybuses and Trolleytrucks _ LOW←TECH MAGAZINE.pdf",
+    "PersonalLibrary/Tech Study/Low-Tech Magazine/Electric Velomobiles_ as Fast and Comfortable as Automobiles, but 80 times more Efficient (Part Two) _ LOW←TECH MAGAZINE.pdf",
+    "PersonalLibrary/Tech Study/Low-Tech Magazine/Electric Velomobiles_ as Fast and Comfortable as Automobiles, but 80 times more Efficient _ LOW←TECH MAGAZINE.pdf",
+    "PersonalLibrary/Tech Study/Low-Tech Magazine/How to Make Everything Ourselves_ Open Modular Hardware _ LOW←TECH MAGAZINE.pdf",
+    "PersonalLibrary/Tech Study/Low-Tech Magazine/Vietnam's Low-tech Food System Takes Advantage of Decay _ LOW←TECH MAGAZINE.pdf",
+    "PersonalLibrary/Tech Study/Low-Tech Magazine/Ditch the Batteries_ Off-Grid Compressed Air Energy Storage _ LOW←TECH MAGAZINE.pdf",
+    "PersonalLibrary/Tech Study/Low-Tech Magazine/How Much Energy Do We Need_ _ LOW←TECH MAGAZINE.pdf",
+    "PersonalLibrary/Tech Study/Low-Tech Magazine/How to Build a Low-tech Website_ _ LOW←TECH MAGAZINE.pdf",
+    "PersonalLibrary/Tech Study/Low-Tech Magazine/Mist Showers_ Sustainable Decadence_ _ LOW←TECH MAGAZINE.pdf",
+    "PersonalLibrary/Political Study/Towards a Principled use of the Concept of a 'Useful Failure of Policy' in the context of US Imperialism and Domestic Policy.md",
+    "PersonalLibrary/Political Study/Contemporary US/The Clintons Had Slaves_files/twitter.svg",
+    "PersonalLibrary/Political Study/Contemporary US/The Clintons Had Slaves_files/superad11-300x215-2.jpg",
+    "PersonalLibrary/Political Study/Contemporary US/The Clintons Had Slaves_files/rachel cohen.PNG.png",
+    "PersonalLibrary/Political Study/Contemporary US/The Clintons Had Slaves_files/prisoners-11-1024x646-1.jpg",
+    "PersonalLibrary/Political Study/Contemporary US/The Clintons Had Slaves_files/ornament-subscribe-motif-new.png",
+    "PersonalLibrary/Political Study/Contemporary US/The Clintons Had Slaves_files/Liquor-Store-Online-Image1.jpg",
+    "PersonalLibrary/Political Study/Contemporary US/The Clintons Had Slaves_files/linkedin.svg",
+    "PersonalLibrary/Political Study/Contemporary US/The Clintons Had Slaves_files/Kansas-Trans-Rights-Online-Image1.jpg",
+    "PersonalLibrary/Political Study/Contemporary US/The Clintons Had Slaves_files/Headlines-Popup-Bold.jpg",
+    "PersonalLibrary/Political Study/Contemporary US/The Clintons Had Slaves_files/Going-to-Cuba-Article.jpg",
+    "PersonalLibrary/Tech Study/Theoretical Study/Linux/Linux - Command Line.md",
+    "PersonalLibrary/Tech Study/Theoretical Study/Linux/Linux - General Notes.md",
     "PersonalLibrary/Political Study/Towards an Understanding of the Historical Continuum of the American Capitalist Class - From the 1700s Slave-Breeding Class to the 2000s Nation-Devouring Class.md",
-    "PersonalLibrary/Political Study/Towards a Principled use of the Concept of a 'Useful Failure of Policy' in the context.md",
     "PersonalLibrary/Political Study/Response to suemencat's response to Left-Wing Childishness.md",
+    "PersonalLibrary/Tech Study/Theoretical Study/Git/Git Cheat Sheet.md",
+    "Tech Study/Git/Git Cheat Sheet.md",
+    "PersonalLibrary/Tech Study/Theoretical Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/Create a bootable USB stick.md",
+    "PersonalLibrary/Tech Study/Practical Study/Comms/Meshtastic/Meshtastic Overview.md",
+    "PersonalLibrary/Tech Study/Practical Study/Comms/Meshtastic/General Tips.md",
+    "PersonalLibrary/Tech Study/Theoretical Study/Git/First Time Git Setup.md",
+    "PersonalLibrary/Political Study/Untitled.md",
     "PersonalLibrary/Political Study/Notes on THE 2026 BILLIONAIRE TAX ACT.md",
     "PersonalLibrary/Political Study/March 2026 Study.md",
     "PersonalLibrary/Political Study/February 2026 Study.md",
     "PersonalLibrary/README.md",
     "Tech Study/Git/First Time Git Setup.md",
-    "Tech Study/Git/Git Cheat Sheet.md",
     "Tech Study/Linux/Ubuntu Linux Command Line for Beginners.md",
     "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/Create a bootable USB stick.md",
     "Tech Study/Linux/Linux - Text Manipulation and Navigation.md",
     "Tech Study/Linux/Linux - Command Line.md",
     "Tech Study/Linux/Linux - General Notes.md",
-    "Tech Study/Comms/Meshtastic/Meshtastic Overview.md",
-    "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317121841.png",
-    "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317123944.png",
-    "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317124049.png",
-    "Tech Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/bootableUSBimages/Pasted image 20260317124011.png"
+    "Tech Study/Comms/Meshtastic/Meshtastic Overview.md"
   ]
 }

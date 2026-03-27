@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "ad3b634f1c78c677",
+    "type": "split",
+    "children": [
+      {
+        "id": "94110abe1da9c991",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f7ce9f98247ce61",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Tech Study/Practical Study/Solar/Solar Power, an Idiot's Guide. - THE MUD HOME.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Solar Power, an Idiot's Guide. - THE MUD HOME"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63e6d3625d016c35",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6e9d16dae343ee35",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "c380b044ed3ee3af",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "57d7df724377849c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "8f362ae9763068ab",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "89295056e2947462",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5247a5d8a1c43e1c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a075794a5e3223fe",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "209c7a54db1d13c2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "21224327debcb2e3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1f7ce9f98247ce61",
+  "lastOpenFiles": [
+    "Tech Study/Practical Study/Solar/Solar Power Design for Small Structures.pdf",
+    "Political Study/Lavender_and_Red.pdf",
+    "Political Study/Towards a Principled use of the Concept of a 'Useful Failure of Policy' in the context of US Imperialism and Domestic Policy.md",
+    "Political Study/Notes on THE 2026 BILLIONAIRE TAX ACT.md",
+    "Tech Study/Linux/Linux - General Notes.md",
+    "Tech Study/Linux/Linux - Text Manipulation and Navigation.md",
+    "Tech Study/Linux/Linux - Command Line.md",
+    "Political Study/Towards a Principled use of the Concept of a 'Useful Failure of Policy' in the context.md",
+    "Political Study/March 2026 Study.md",
+    "Political Study/February 2026 Study.md"
+  ]
+}
