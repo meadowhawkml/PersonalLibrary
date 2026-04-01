@@ -161,6 +161,7 @@ With its user-friendly installer and the integrated YaST control center, openSUS
 - `ce` To change until the end of a word
 
 - `%` To find a matching ), ], or }.
+- `$` To go to end of current line
 
 - `:s/old/new/g` To substitute 'new' for 'old', with the '`g`' flag executing this command through the line (without `g` it would only substitute the first)
 - `:#,#s/old/new/g` To substitute every occurrence of a string of characters between two lines
@@ -172,4 +173,32 @@ With its user-friendly installer and the integrated YaST control center, openSUS
 	- `:!ls`
 	- `:!rm`
 - `v` To enter 'Visual selection', which allows you to highlight text from the starting position of the cursor to wherever you move the cursor to
+- `:r FILENAME` To write the contents of FILENAME at cursor position
+- `:r [command]` To write the return of an external shell command at cursor position
 
+- `o` To insert text below current line
+- `O` To insert text above current line
+- `e` To jump to end of next word
+- `a` To append text AFTER the cursor
+	- `a`, `A`, and `i` all enter the same Insert mode, the only difference is where the characters are inserted
+- `R` To replace more than one character
+
+- `y` To 'yank' (copy) selected character
+	- `yw` To 'yank' selected word
+- `p` To paste yanked characters
+
+- `:set ic` To set 'Ignore Case', allowing search to find matches regardless of case
+- `:set hls is` To highlight found search terms
+- `:nohlsearch` To un-highlight found search terms
+		- `ic` and `ignorecase` ignore upper/lower case when searching
+		- `is` and `incsearch` show partial matches for a search phrase
+		- `hls` and `hlsearch` highlight all matching phrases
+		- Prepend `no` to switch an option off, ex: `:set noic`
+
+- `:help [command]` To search the docs for help on a given command
+
+- `CTRL-D` To show list of auto-completable commands that match the currently typed characters
+	- Ex.: type `:e` and press `CTRL-D` to bring up a list of commands starting with `:e`
+- `<TAB>` To auto-complete closest match
+	- This also works with filenames, if they are unique
+- 
