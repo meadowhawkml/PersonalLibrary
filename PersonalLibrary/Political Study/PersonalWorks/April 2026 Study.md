@@ -31,3 +31,19 @@
 
 - We must not get distracted by shiny products of development which are markedly uneven. As much as the current material conditions allow, all growth in the productive forces ought to be led politically and by the masses of the workers rather than a small clique of developers who will forget about rural populations. 
 	- I believe this particular point to be especially true in our country, highlighted by the recent insufficiencies and closures of rural healthcare facilities due to funding losses.
+
+
+## [A People's History of Ideas ep.12: The Young Mao Zedong](https://peopleshistoryofideas.com/episode-12-the-young-mao-zedong/)
+
+> [!info] ##### Important Names
+> *Ba Jin* - anarchist novelist who wrote *The Family*
+> *Shang Yang* - founder of the legalist school
+> *Sima Quian* - author of *Records of the Grand Historian*
+
+
+- Mao was born on December 26th, 1893 in Hunan Province, in the village of Shaoshan
+	- Shaoshan was the ancestral home of the Mao clan; as a result, nearly everyone there was related and had the same family name Mao.
+- Shaoshan was in a relatively prosperous farming region, and his father made enough through hard work to expand the family farm and hire a couple of laborers.
+	- According to the criteria that Mao laid out in "How to Differentiate Class Status in Rural Areas", his family would have been classified as a rich peasant family.
+
+> [!quote] "The rich peasant as a rule owns land. But some rich peasants own only part of their land and rent the remainder. Others have no land of their own at all and rent all their land. The rich peasant generally has rather more and better instruments of production and more liquid capital than the average and engages in labor himself, but always relies on exploitation for part or even the major part of his income. His main form of exploitation is the hiring of labor (long-term laborers). In addition, he may let part of his land and practice exploitation through land rent, or may lend money or engage in industry and commerce. Most rich peasants also engage in the administration of communal land. A person who owns a fair amount of good land, farms some of it himself without hiring labor, but exploits other peasants by means of land rent, loan interests or in other ways, shall also be treated as a rich peasant. Rich peasants regularly practice exploitation and many derive most of their income from this source."
