@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "f2ea95b3def44135",
+    "type": "split",
+    "children": [
+      {
+        "id": "f32ef81550d14319",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83ce6cb890137998",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/madera-court-order-stip.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "madera-court-order-stip"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "864250b7f5b0e0e7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bba4ae4bc94c3b23",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "59d858c57c1ff435",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "3930338a51a7af21",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "769b5d6e5760203a",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "971589bb6b88925f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e3937b3c261f6333",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e6ef7da5a7dbff2b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/madera-court-order-stip.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "967608fca1fe6f13",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/madera-court-order-stip.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "2186648f0d7a6297",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/madera-court-order-stip.pdf",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "83ce6cb890137998",
+  "lastOpenFiles": []
+}
