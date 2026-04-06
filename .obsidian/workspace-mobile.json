@@ -11,12 +11,14 @@
             "id": "83ce6cb890137998",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/madera-court-order-stip.pdf"
+                "file": "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/On the Closures and Insufficiencies in North Californian Healthcare Facilities 2025-2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "madera-court-order-stip"
+              "icon": "lucide-file",
+              "title": "On the Closures and Insufficiencies in North Californian Healthcare Facilities 2025-2026"
             }
           }
         ]
@@ -167,5 +169,9 @@
     }
   },
   "active": "83ce6cb890137998",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/What’s the track record of AAM, the new Madera hospital management firm_ _ Fresno Bee.PDF",
+    "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/On the Closures and Insufficiencies in North Californian Healthcare Facilities 2025-2026.md",
+    "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/madera-court-order-stip.pdf"
+  ]
 }

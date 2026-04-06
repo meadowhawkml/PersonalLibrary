@@ -49,7 +49,13 @@
 > 
 > Two years ago, the state bailed out 17 rural and community hospitals - Glenn Medical was not one of them - by loaning them close to $300 million altogether. That loan program was largely prompted by the closure of Madera Community Hospital, which also left an entire county without emergency services. After bankruptcy proceedings, Madera Community is now owned and operated by American Advanced Management, a for-profit company that has made a business out of rescuing distressed and shuttered hospitals. The company also owns Glenn Medical Center.
 
+## Madera's new hospital manager can start reopening. But critics question track record - Fresno Bee 11 Apr. 2024
 
+#### Quotes
+
+> [!quote] "When American Advanced Management made a bid for the bankrupt Madera Community Hospital last year, many local officials and others involved in trying to reopen the facility didn't take the company seriously.
+> 
+> The 11-year-old firm, based in Modesto, was already running a handful of small, rural hospitals, but Madera had far larger and more prestigious suitors, including Trinity Health and then Adventist Health."
 ## AAMG and Gupreet Singh
 
 [[AAMG.pdf]]
