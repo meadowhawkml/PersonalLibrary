@@ -123,42 +123,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PersonalLibrary/Tech Study/Theoretical Study/Linux/Linux - Text Manipulation and Navigation.md",
+                "file": "PersonalLibrary/Political Study/PersonalWorks/Notes on Capital Vol. I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux - Text Manipulation and Navigation"
-            }
-          },
-          {
-            "id": "3f927b858c7e6830",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PersonalLibrary/Political Study/International/IntroBasicPrincMarxLenin_Part_1_Final.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "IntroBasicPrincMarxLenin_Part_1_Final"
-            }
-          },
-          {
-            "id": "e8f5e12a7c877f92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/On the Closures and Insufficiencies in North Californian Healthcare Facilities 2025-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "On the Closures and Insufficiencies in North Californian Healthcare Facilities 2025-2026"
+              "title": "Notes on Capital Vol. I"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -320,20 +294,60 @@
       "bases:Create new base": false
     }
   },
-  "active": "e8f5e12a7c877f92",
+  "floating": {
+    "id": "effe186580b1e5a2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cc4d794413a2faf0",
+        "type": "window",
+        "children": [
+          {
+            "id": "3d7e96927c7e0f0f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3f927b858c7e6830",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "PersonalLibrary/Political Study/Capital-Volume-I.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Capital-Volume-I"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2882,
+        "y": 597,
+        "width": 706,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "4974c9aa28ab81b9",
   "lastOpenFiles": [
-    "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/madera-court-order-stip.pdf",
+    "PersonalLibrary/Political Study/PersonalWorks/April 2026 Study.md",
+    "PersonalLibrary/Political Study/PersonalWorks/Notes on Capital Vol. I.md",
+    "PersonalLibrary/Political Study/Capital-Volume-I.pdf",
+    "PersonalLibrary/Tech Study/Theoretical Study/Linux/Linux - Text Manipulation and Navigation.md",
+    "PersonalLibrary/Political Study/Chico R.E.D.S/Land Reform and Political Recruitment State Building in the People's Republic of China 1949-57.pdf",
+    "PersonalLibrary/Political Study/Census Practices and Population Statistics of Kuomintang China (1911-1949).pdf",
+    "PersonalLibrary/Political Study/Chico R.E.D.S/Chinese Revolution (1).pdf",
+    "PersonalLibrary/Political Study/Chico R.E.D.S/Notes from Fanshen.md",
+    "PersonalLibrary/Political Study/Chico R.E.D.S/Fanshen-a-Documentary-of-Revolution-in-a-Chinese-Village-William-Hinton.PDF",
     "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/On the Closures and Insufficiencies in North Californian Healthcare Facilities 2025-2026.md",
+    "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/madera-court-order-stip.pdf",
     "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/AAMG.pdf",
     "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/AAM-MCCJ-objection-document.pdf",
     "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/Enloe Health braces for patient surge with impending closure of Glenn Medical Center's Emergency Room _ News _ actionnewsnow.com.pdf",
     "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/Glenn County Hospital to Close After Losing Critical Access Status.pdf",
-    "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/Another California county is losing its only hospital - Los Angeles Times.pdf",
-    "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities",
-    "PersonalLibrary/Political Study/PersonalWorks/April 2026 Study.md",
-    "PersonalLibrary/Political Study/Chico R.E.D.S/Chinese Revolution (1).pdf",
-    "PersonalLibrary/Political Study/Chico R.E.D.S/Untitled",
-    "PersonalLibrary/Political Study/Chico R.E.D.S",
     "PersonalLibrary/Political Study/PersonalWorks/March 2026 Study.md",
     "PersonalLibrary/Political Study/PersonalWorks/February 2026 Study.md",
     "PersonalLibrary/Political Study/PersonalWorks/Towards a Principled use of the Concept of a 'Useful Failure of Policy' in the context of US Imperialism and Domestic Policy.md",
@@ -344,7 +358,6 @@
     "PersonalLibrary/Tech Study/Theoretical Study/Linux/Linux - User Management.md",
     "PersonalLibrary/Tech Study/Theoretical Study/Linux/Linux - Advanced Text Manipulation.md",
     "PersonalLibrary/Tech Study/Theoretical Study/Linux/Linux - General Notes.md",
-    "PersonalLibrary/Tech Study/Theoretical Study/Linux/Linux - Text Manipulation and Navigation.md",
     "PersonalLibrary/Tech Study/Theoretical Study/Linux/Ubuntu Linux Command Line for Beginners.md",
     "PersonalLibrary/Political Study/Contemporary US/The Clintons Had Slaves_files/twitter.svg",
     "PersonalLibrary/Political Study/Contemporary US/The Clintons Had Slaves_files/superad11-300x215-2.jpg",
@@ -364,8 +377,6 @@
     "PersonalLibrary/Tech Study/Practical Study/Comms/Meshtastic/Meshtastic Overview.md",
     "PersonalLibrary/Tech Study/Practical Study/Comms/Meshtastic/General Tips.md",
     "PersonalLibrary/Tech Study/Theoretical Study/Git/First Time Git Setup.md",
-    "PersonalLibrary/Political Study/PersonalWorks/Notes on THE 2026 BILLIONAIRE TAX ACT.md",
-    "PersonalLibrary/README.md",
-    "Tech Study/Git/First Time Git Setup.md"
+    "PersonalLibrary/Political Study/PersonalWorks/Notes on THE 2026 BILLIONAIRE TAX ACT.md"
   ]
 }

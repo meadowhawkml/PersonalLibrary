@@ -1,0 +1,61 @@
+
+## Chapter I: The Commodity
+
+### I. THE TWO FACTORS OF THE COMMODITY: USE-VALUE AND VALUE (SUBSTANCE OF VALUE, MAGNITUDE OF VALUE)
+
+> "The wealth of societies in which the capitalist mode of production prevails appears as an *'immense collection of commodities'*; the individual commodity appears as its elementary form. Our investigation therefore begins with the analysis of the *commodity.*
+> 
+> The *commodity* is, first of all, an external object, a thing which through its qualities satisfies human need of whatever kind. The nature of those needs, whether they arise, for example, from the stomach, or the imagination, makes no difference. Nor does it matter here how the thing satisfies man's need, whether directly as a means of subsistence, i.e. an object of consumption, or indirectly as a means of production."
+
+- Wealth is measured in material objects, so material objects ought to be the basis of our understanding of societies built upon the accrual and amassing of wealth.
+- The *commodity* is simply a physical object which fulfills some physical or mental human need (food, housing, production, entertainment, education, etc.).
+
+##### Use-Value
+
+> "The usefulness of a thing makes it a *use-value*." *But this usefulness does not dangle in mid-air. It is conditioned by the physical properties of the commodity, and has no existence apart from the latter.* It is therefore the physical body of the commodity itself, for instance iron, corn, a diamond, which is the use-value or useful thing. *This property of a commodity is independent of the amount of labor required to appropriate its useful qualities.*
+> 
+> When examining use-values, we always assume we are dealing with definite quantities, such as dozens of watches, yards of linen, or tons of iron. The use-values of commodities provide the material for a special branch of knowledge, namely the commercial knowledge of commodities. Use-values are only realized (*verwirklicht*) in use or in consumption. They constitute the material content of wealth, whatever its social form may be. In the form of society to be considered here they are also the material bearers (*Träger*) of...*exchange value.*"
+
+- The *use-value* of a commodity, or a commodity as use-value, is it's usefulness defined by it's physical form, whether that form is natural or manufactured. For example, a skipping stone has a natural use-value in that it can bring entertainment to those who know how to work it, while a computer has manufactured use-value in that it's precise physical form allows it to aid in the rapid aggregation and processing of vast quantities of data.
+- *Use-value*, being only one side of the nature of a *commodity*, ought to be, in it's analysis, algebraically isolated from other forms of value; in other words, quantities of a given commodity ought to be assumed static so that the nature of the dependent quantity called *use-value* can be examined (just as one would scientifically study any other matter).
+
+##### Exchange-Value
+
+> "*Exchange-value* appears first of all as the quantitative relation, the proportion, in which *use-values* of one kind exchange for *use-values* of another kind. *This relation changes constantly with time and place.* Hence *exchange-value* appears to be something accidental and purely relative, and consequently an intrinsic value, i.e. an *Exchange-value* that is inseparably connected with the commodity, inherent in it, seems a contradiction in terms. Let us consider the matter more closely.
+> 
+> A given *commodity*, a quarter of wheat for example, is exchanged for *x* boot-polish, *y* silk, or *z* gold, etc. In short, it is exchanged for other commodities in the most diverse proportions. *Therefore the wheat has many exchange-values instead of one.* But *x* boot-polish, *y* silk or *z* gold, etc., must, as *exchange-values*, be mutually replaceable or of identical magnitude.*It follows from this, firstly, the valid exchange-values of a particular commodity express something equal, and secondly, exchange-value cannot be anything other than the mode of expression, the 'form of appearance', of a content distinguishable from it.*"
+
+- The amount of *commodity a* which one can reasonably trade for *commodity b* can change drastically based on material reality, for example, the availability of each commodity in the local area and the abundance of each, etc.
+- Multiple *commodities* can hold different *exchange-value* relationships with other *commodities*, but these different *exchange-value* relationships must necessarily be 'of identical magnitude'. 
+	- From this conclusion, we can see that *exchange-values* express an aspect which is both shared between *commodities* and are also simply the 'form of appearance' of an other *commodity*, distinguishable in *use-value*, from the point-of-view of the one *commodity*.
+
+> "Let us now take two commodities, for example corn and iron. Whatever their exchange relation may be, it can always be represented by an equation in which a given quantity of corn is equated to some quantity of iron, for instance *1 quarter of corn = x cwt of iron*. What does this equation signify? It signifies that a common element of identical magnitude exists in two different things, in 1 quarter of corn and similarly in xcwt of iron. Both are therefore equal to a third thing, which is neither the one nor the other. Each of them, so far as it is *exchange-value*, must therefore be reducible to this third thing.
+> 
+> A simple geometrical example will illustrate this. *In order to determine and compare the areas of all rectilinear figures we split them up into triangles. Then the triangle itself is reduced to an expression totally different from its visible shape: half the product of the base and the altitude, In the same way the exchange values of commodities must be reduced to a common element, of which they represent a greater or a lesser quantity.*
+> 
+> This common element cannot be a geometrical, physical, chemical, or other natural property of commodities. *Such properties come into consideration only to the extent that they make the commodities useful, i.e. turn them into use-values.* But clearly, the exchange relation of commodities is characterized precisely by its abstraction from their use-values. *Within the exchange relation, one use-value is worth just as much as another, provided only that it is present in the appropriate quantity.* Or as old Barbon says: 'One sort of wares are as good as another, if the value be equal. There is no difference or distinction in things of equal value...'
+> 
+> *As use-values, commodities differ above all in quality, while as exchange-values they can only differ in quantity, and therefore do not contain an atom of use-value.*"
+
+- This distinction between *use-value* and *exchange-value* is the first fundamental lesson of Capital, and it informs, and is in turn informed by, the distinction between *qualitative* and *quantitative* relationships. The ways in which fundamentally contradictory aspects within a single thing interact both within the thing itself and with the world outside the thing constitute an important philosophical pillar of scientific socialism.
+
+> "*If then we leave out of consideration the use value of commodities, they have only one common property left, that of being products of labor.* But even the product of labor itself has undergone a change in our hands. If we make abstraction from its use value, we make abstraction at the same time from the material elements and shapes that make the product a use value; we see in it no longer a table, a house, yarn, or any other definite kind of productive labor. *Along with the useful qualities of the products themselves, we put out of sight both the useful character of the various kinds of labor embodied in them, and the concrete forms of that labor; there is nothing left but what is common to them all; all are reduced to one and the same sort of labor, human labor in the abstract.*
+> 
+> Let us now consider the residue of each of these products; it consists of the same unsubstantial reality in each, a mere congelation of homogenous human labor, of labor power expended without regard to the mode of its expenditure. *All that these things now tell us is, that human labor power has been expended in their production, that human labor is embodied in them. When we look at as crystals of this social substance, common to them all, they are* - *Values*."
+
+- Continuing the reduction of the value of commodities to it's most basic elements, there is one aspect of their existence which they all share in common: *the fact that they are products of human labor*. 
+	- Despite the differences in *use-value* and *exchange-value* which exist between all commodities as *qualitative differences*, all commodities share in the *qualitative similarity* that *they exist only as products of abstract human labor*
+
+> "We have seen that *when commodities are exchanged, their exchange value manifests itself as something totally independent of their use value.* But if we abstract from their use value, there remains their *Value* as defined above. *Therefore, the common substance that manifests itself in the exchange value of commodities, whenever they are exchanged, is their value.* The progress of our investigation will show that exchange value is the only form in which the value of commodities can manifest itself or be expressed. For the present, however, we have to consider the nature of value independently of this, its form."
+
+- The *value* of a commodity is that aspect of it's nature *which is manifested in the exchange value, but is not itself the exchange value*; the *value* of a commodity being tied to the *socially-necessary labor* crystallized in the commodity rather than the *current socially-accepted or mandated exchange rates among other commodities*.
+
+> "A use value, or useful article, therefore, has value only because human labor in the abstract has been embodied or materialized in it. How, then, is the magnitude of this value to be measured? Plainly, by the quantity of the value-creating substance, the labor, contained in the article. *The quantity of labor, however, is measured by its duration, and labor time in its turn finds its standard in weeks, days, and hours.*
+> 
+> Some people might think that if the value of a commodity is determined by the quantity of labor spent on it, the more idle and unskillful the laborer, the more valuable would his commodity be, because more time would be required in its production. *The labor, however, that forms the substance of value, is homogenous human labor, expenditure of one uniform labor power. The total labor power of society, counts here as one homogenous mass of human labor power, composed though it be of innumerable individual units.* Each of these units is the same as any other, so far as it has the character of the average labor power of society, and takes effect as such; that is, so far as it requires for producing a commodity, no more time than is needed on an average, no more than is socially necessary. The labor time socially necessary is that required to produce an article under the normal conditions of production, and with the average degree of skill and intensity prevalent at the time. *The introduction of power-looms into England probably reduced by one-half the labor required to weave a given quantity of yarn into cloth. The hand-loom weavers, as a matter of fact, continued to require the same time as before; but for all that, the product of one hour of their labor represented after the change only half an hour's social labor, and consequently fell to one-half its former value.*"
+
+- The *value* of *commodities* is determined by the amount of human labor embodied within them. This does not mean "the amount of labor I, as an individual, put in to producing this commodity", but rather "the amount of labor which is necessary on average within the society I am a part of to produce this commodity."
+	- To clarify further, if it takes worker *a* 2 hours to construct an identical stool which it takes worker *b* 1 hour to construct, worker *a* will receive half as much compensation for their labor-time as worker *b*.
+
+
+
