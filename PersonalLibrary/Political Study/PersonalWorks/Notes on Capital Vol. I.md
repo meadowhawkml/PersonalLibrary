@@ -67,5 +67,12 @@
 	- The lower quality of socially-available labor is congealed within an object, the greater it's value; this relation is *inversely proportional*
 		- In simpler terms: hand-woven materials cost a great deal more when hand-weaving was the most advanced form of social production of textiles; when the mechanical loom made it's appearance, and the quality of labor on average increased greatly, the value of the now mechanically-woven materials dropped. That drop in value was a direct cause of the reduction in socially-necessary labor time used in the creation of the commodity.
 
+> *A thing can be a use value, without having value.* This is the case whenever utility to man is not due to labor. Such are air, virgin soil, natural meadows, etc. *A thing can be useful, and the product of human labor, without being a commodity.* Whoever directly satisfies his wants with the produce of his own labor, creates, indeed, use values, *but not commodities.* In order to produce the latter, he must not only produce use values, but *use values for others, social use values* (And not only for others, without more. The medieval peasant produced quit-rent-corn for his feudal lord and tithe-corn for his parson. *But neither the quit-rent-corn nor the tithe-corn became commodities by reason of the fact that they had been produced for others.* ***To become a commodity a product must be transferred to another, whom it will serve as a use value, by means of an exchange.***) Lastly *nothing can have value, without being an object of utility.* If the thing is useless, so is the labor contained in it; the labor does not count as labor, and therefore creates no value.
+
+- Here, Marx further specifies what, exactly, makes a thing a commodity.
+	- ***"To become a commodity a product must be transferred to another, whom it will serve as a use value, by means of an exchange."***
+	- In other words, a commodity is a product which is exchanged (bought/sold) to a person other than it's creator.
+
+### II: The Two-fold Character of the Labor Embodied in Commodities
 
 
