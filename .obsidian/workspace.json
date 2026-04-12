@@ -123,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PersonalLibrary/Political Study/PersonalWorks/Notes on Capital Vol. I.md",
+                "file": "PersonalLibrary/Political Study/Chico R.E.D.S/April 14 Meeting Study Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes on Capital Vol. I"
+              "title": "April 14 Meeting Study Notes"
             }
           }
         ],
@@ -312,10 +312,10 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "PersonalLibrary/Political Study/Capital-Volume-I.pdf"
+                    "file": "PersonalLibrary/Political Study/Chico R.E.D.S/Fanshen-a-Documentary-of-Revolution-in-a-Chinese-Village-William-Hinton.PDF"
                   },
                   "icon": "lucide-file-text",
-                  "title": "Capital-Volume-I"
+                  "title": "Fanshen-a-Documentary-of-Revolution-in-a-Chinese-Village-William-Hinton"
                 }
               }
             ]
@@ -333,15 +333,17 @@
   },
   "active": "4974c9aa28ab81b9",
   "lastOpenFiles": [
+    "PersonalLibrary/Political Study/Chico R.E.D.S/Fanshen-a-Documentary-of-Revolution-in-a-Chinese-Village-William-Hinton.PDF",
     "PersonalLibrary/Political Study/Capital-Volume-I.pdf",
+    "PersonalLibrary/Political Study/Chico R.E.D.S/April 14 Meeting Study Notes.md",
+    "PersonalLibrary/Political Study/Chico R.E.D.S/Chinese Revolution (1).pdf",
     "PersonalLibrary/Political Study/PersonalWorks/Notes on Capital Vol. I.md",
+    "PersonalLibrary/Political Study/Chico R.E.D.S/Relevant Thoughts and Notes.md",
     "PersonalLibrary/Political Study/PersonalWorks/April 2026 Study.md",
     "PersonalLibrary/Tech Study/Theoretical Study/Linux/Linux - Text Manipulation and Navigation.md",
     "PersonalLibrary/Political Study/Chico R.E.D.S/Land Reform and Political Recruitment State Building in the People's Republic of China 1949-57.pdf",
     "PersonalLibrary/Political Study/Census Practices and Population Statistics of Kuomintang China (1911-1949).pdf",
-    "PersonalLibrary/Political Study/Chico R.E.D.S/Chinese Revolution (1).pdf",
     "PersonalLibrary/Political Study/Chico R.E.D.S/Notes from Fanshen.md",
-    "PersonalLibrary/Political Study/Chico R.E.D.S/Fanshen-a-Documentary-of-Revolution-in-a-Chinese-Village-William-Hinton.PDF",
     "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/On the Closures and Insufficiencies in North Californian Healthcare Facilities 2025-2026.md",
     "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/madera-court-order-stip.pdf",
     "PersonalLibrary/Political Study/PersonalWorks/On the Closures of North Californian Healthcare Facilities/AAMG.pdf",
@@ -375,8 +377,6 @@
     "Tech Study/Git/Git Cheat Sheet.md",
     "PersonalLibrary/Tech Study/Theoretical Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/Create a bootable USB stick.md",
     "PersonalLibrary/Tech Study/Practical Study/Comms/Meshtastic/Meshtastic Overview.md",
-    "PersonalLibrary/Tech Study/Practical Study/Comms/Meshtastic/General Tips.md",
-    "PersonalLibrary/Tech Study/Theoretical Study/Git/First Time Git Setup.md",
-    "PersonalLibrary/Political Study/PersonalWorks/Notes on THE 2026 BILLIONAIRE TAX ACT.md"
+    "PersonalLibrary/Tech Study/Practical Study/Comms/Meshtastic/General Tips.md"
   ]
 }

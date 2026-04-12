@@ -8,7 +8,7 @@
 > The *commodity* is, first of all, an external object, a thing which through its qualities satisfies human need of whatever kind. The nature of those needs, whether they arise, for example, from the stomach, or the imagination, makes no difference. Nor does it matter here how the thing satisfies man's need, whether directly as a means of subsistence, i.e. an object of consumption, or indirectly as a means of production."
 
 - Wealth is measured in material objects, so material objects ought to be the basis of our understanding of societies built upon the accrual and amassing of wealth.
-- The *commodity* is simply a physical object which fulfills some physical or mental human need (food, housing, production, entertainment, education, etc.).
+- The *commodity* is simply a physical object, manufactured by *human labor* which fulfills some physical or mental human need as a *use-value* (food, housing, production, entertainment, education, childcare, etc.).
 
 ##### Use-Value
 
@@ -16,7 +16,7 @@
 > 
 > When examining use-values, we always assume we are dealing with definite quantities, such as dozens of watches, yards of linen, or tons of iron. The use-values of commodities provide the material for a special branch of knowledge, namely the commercial knowledge of commodities. Use-values are only realized (*verwirklicht*) in use or in consumption. They constitute the material content of wealth, whatever its social form may be. In the form of society to be considered here they are also the material bearers (*Träger*) of...*exchange value.*"
 
-- The *use-value* of a commodity, or a commodity as use-value, is it's usefulness defined by it's physical form, whether that form is natural or manufactured. For example, a skipping stone has a natural use-value in that it can bring entertainment to those who know how to work it, while a computer has manufactured use-value in that it's precise physical form allows it to aid in the rapid aggregation and processing of vast quantities of data.
+- The *use-value* of a commodity, or a commodity as use-value, is it's usefulness defined by it's physical form, and the material purpose that physical form serves. Natural objects, made without the labor of mankind, such as arable land, skipping stones, good lumber, etc., *can be use-values, but cannot be commodities* as to be a *commodity* is, necessarily, to be brought into being by *human labor*.
 - *Use-value*, being only one side of the nature of a *commodity*, ought to be, in it's analysis, algebraically isolated from other forms of value; in other words, quantities of a given commodity ought to be assumed static so that the nature of the dependent quantity called *use-value* can be examined (just as one would scientifically study any other matter).
 
 ##### Exchange-Value
@@ -25,9 +25,12 @@
 > 
 > A given *commodity*, a quarter of wheat for example, is exchanged for *x* boot-polish, *y* silk, or *z* gold, etc. In short, it is exchanged for other commodities in the most diverse proportions. *Therefore the wheat has many exchange-values instead of one.* But *x* boot-polish, *y* silk or *z* gold, etc., must, as *exchange-values*, be mutually replaceable or of identical magnitude.*It follows from this, firstly, the valid exchange-values of a particular commodity express something equal, and secondly, exchange-value cannot be anything other than the mode of expression, the 'form of appearance', of a content distinguishable from it.*"
 
-- The amount of *commodity a* which one can reasonably trade for *commodity b* can change drastically based on material reality, for example, the availability of each commodity in the local area and the abundance of each, etc.
-- Multiple *commodities* can hold different *exchange-value* relationships with other *commodities*, but these different *exchange-value* relationships must necessarily be 'of identical magnitude'. 
+- The amount of *commodity a* which one can reasonably trade for *commodity b* can change drastically based on material reality, for example, the availability of each commodity in the local area, the need existing for their production, etc.
+- Multiple *commodities* can hold different *exchange-value* relationships with other *commodities*, but these different *exchange-value* relationships must necessarily be 'of identical magnitude', or of an equal value, given that they are all the *exchange-values* of a specific quantity of a specific *commodity*. 
 	- From this conclusion, we can see that *exchange-values* express an aspect which is both shared between *commodities* and are also simply the 'form of appearance' of an other *commodity*, distinguishable in *use-value*, from the point-of-view of the one *commodity*.
+		- In other words, the term *exchange-value* refers to the *relationship between commodities* and in the specific context of their *comparative value* against other *commodities*. The *exchange value* of *commodity b* to *commodity a* is just a complex mirror which *commodity a* holds up to *commodity b*; this mirror contains all the material, historical, and social elements of society and reflects *exchange-value*.
+
+
 
 > "Let us now take two commodities, for example corn and iron. Whatever their exchange relation may be, it can always be represented by an equation in which a given quantity of corn is equated to some quantity of iron, for instance *1 quarter of corn = x cwt of iron*. What does this equation signify? It signifies that a common element of identical magnitude exists in two different things, in 1 quarter of corn and similarly in xcwt of iron. Both are therefore equal to a third thing, which is neither the one nor the other. Each of them, so far as it is *exchange-value*, must therefore be reducible to this third thing.
 > 
