@@ -294,58 +294,13 @@
       "bases:Create new base": false
     }
   },
-  "floating": {
-    "id": "effe186580b1e5a2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cc4d794413a2faf0",
-        "type": "window",
-        "children": [
-          {
-            "id": "3d7e96927c7e0f0f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3f927b858c7e6830",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "PersonalLibrary/Political Study/Chico R.E.D.S/Fanshen-a-Documentary-of-Revolution-in-a-Chinese-Village-William-Hinton.PDF"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Fanshen-a-Documentary-of-Revolution-in-a-Chinese-Village-William-Hinton"
-                }
-              },
-              {
-                "id": "b1a31d5479fa993a",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "PersonalLibrary/Political Study/Capital-Volume-I.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Capital-Volume-I"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 2887,
-        "y": 493,
-        "width": 706,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "4974c9aa28ab81b9",
+  "active": "c07ba2a343dbcfa6",
   "lastOpenFiles": [
+    "PersonalLibrary/Tech Study/Practical Study/Solar/Electrical Energy Storage - An Introduction.pdf",
+    "PersonalLibrary/Projects/Gardening/Hydroponics/Automation of Hydroponics System using Open-Source Hardware and Software with Remote Monitoring and Control.pdf",
+    "PersonalLibrary/Projects/Gardening/Hydroponics/Complete Guide for Growing Plants Hydroponically.pdf",
+    "PersonalLibrary/Projects/Gardening/Hydroponics",
+    "PersonalLibrary/Political Study/Capital-Volume-I.pdf",
     "PersonalLibrary/Projects/Gardening/Labor Tracking/Untitled.md",
     "PersonalLibrary/Political Study/PersonalWorks/Notes on Capital Vol. I.md",
     "PersonalLibrary/Projects/Gardening/Labor Tracking",
@@ -353,13 +308,9 @@
     "PersonalLibrary/Projects/Food Preservation",
     "PersonalLibrary/Projects/Gardening/Kellogg Raised Bed Gardening Guide.pdf",
     "PersonalLibrary/Projects/Gardening/UN Lincoln Vegetable and Fruit Production guide.pdf",
-    "PersonalLibrary/Political Study/Capital-Volume-I.pdf",
     "PersonalLibrary/Political Study/Chico R.E.D.S/Fanshen-a-Documentary-of-Revolution-in-a-Chinese-Village-William-Hinton.PDF",
     "PersonalLibrary/Political Study/Chico R.E.D.S/April 14 Meeting Study Notes.md",
     "PersonalLibrary/Political Study/Chico R.E.D.S/Relevant Thoughts and Notes.md",
-    "PersonalLibrary/Political Study/Chico R.E.D.S/REDS 4_14 (1).pdf",
-    "PersonalLibrary/Projects/Gardening/Chico Valley Area Planting Guide.pdf",
-    "PersonalLibrary/Projects/Gardening",
     "PersonalLibrary/Political Study/Chico R.E.D.S/Notes from Fanshen.md",
     "PersonalLibrary/Political Study/PersonalWorks/April 2026 Study.md",
     "PersonalLibrary/Tech Study/Theoretical Study/Linux/Linux - Text Manipulation and Navigation.md",
@@ -390,7 +341,6 @@
     "PersonalLibrary/Tech Study/Theoretical Study/Git/Git Cheat Sheet.md",
     "Tech Study/Git/Git Cheat Sheet.md",
     "PersonalLibrary/Tech Study/Theoretical Study/Linux/Create a bootable USB stick - Ubuntu Desktop documentation_files/Create a bootable USB stick.md",
-    "PersonalLibrary/Tech Study/Practical Study/Comms/Meshtastic/Meshtastic Overview.md",
-    "PersonalLibrary/Tech Study/Practical Study/Comms/Meshtastic/General Tips.md"
+    "PersonalLibrary/Tech Study/Practical Study/Comms/Meshtastic/Meshtastic Overview.md"
   ]
 }
