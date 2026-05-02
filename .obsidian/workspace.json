@@ -123,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PersonalLibrary/Political Study/PersonalWorks/Notes on Capital Vol. I.md",
+                "file": "PersonalLibrary/Tech Study/Theoretical Study/Linux/Linux - User Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes on Capital Vol. I"
+              "title": "Linux - User Management"
             }
           }
         ],
@@ -294,21 +294,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "c07ba2a343dbcfa6",
+  "active": "4974c9aa28ab81b9",
   "lastOpenFiles": [
+    "PersonalLibrary/Tech Study/Theoretical Study/Linux/Linux - Advanced Text Manipulation.md",
+    "PersonalLibrary/Tech Study/Practical Study/Introduction to Electrical Engineering and Computer Science I - MITOpenCourseware.pdf",
+    "PersonalLibrary/Projects/Gardening/Kellogg Raised Bed Gardening Guide.pdf",
+    "PersonalLibrary/Political Study/PersonalWorks/Notes on Capital Vol. I.md",
     "PersonalLibrary/Tech Study/Practical Study/Solar/Electrical Energy Storage - An Introduction.pdf",
     "PersonalLibrary/Projects/Gardening/Hydroponics/Automation of Hydroponics System using Open-Source Hardware and Software with Remote Monitoring and Control.pdf",
     "PersonalLibrary/Projects/Gardening/Hydroponics/Complete Guide for Growing Plants Hydroponically.pdf",
     "PersonalLibrary/Projects/Gardening/Hydroponics",
     "PersonalLibrary/Political Study/Capital-Volume-I.pdf",
     "PersonalLibrary/Projects/Gardening/Labor Tracking/Untitled.md",
-    "PersonalLibrary/Political Study/PersonalWorks/Notes on Capital Vol. I.md",
     "PersonalLibrary/Projects/Gardening/Labor Tracking",
     "PersonalLibrary/Projects/Food Preservation/FNHA Canning Foods - Your Guide to Successful Canning.pdf",
     "PersonalLibrary/Projects/Food Preservation",
-    "PersonalLibrary/Projects/Gardening/Kellogg Raised Bed Gardening Guide.pdf",
-    "PersonalLibrary/Projects/Gardening/UN Lincoln Vegetable and Fruit Production guide.pdf",
-    "PersonalLibrary/Political Study/Chico R.E.D.S/Fanshen-a-Documentary-of-Revolution-in-a-Chinese-Village-William-Hinton.PDF",
     "PersonalLibrary/Political Study/Chico R.E.D.S/April 14 Meeting Study Notes.md",
     "PersonalLibrary/Political Study/Chico R.E.D.S/Relevant Thoughts and Notes.md",
     "PersonalLibrary/Political Study/Chico R.E.D.S/Notes from Fanshen.md",
@@ -323,7 +323,6 @@
     "PersonalLibrary/Political Study/PersonalWorks/Notes from 'Curriculum of The Basic Principles of Marxism-Leninism' Part I.md",
     "PersonalLibrary/Political Study/Untitled.md",
     "PersonalLibrary/Tech Study/Theoretical Study/Linux/Linux - User Management.md",
-    "PersonalLibrary/Tech Study/Theoretical Study/Linux/Linux - Advanced Text Manipulation.md",
     "PersonalLibrary/Tech Study/Theoretical Study/Linux/Linux - General Notes.md",
     "PersonalLibrary/Tech Study/Theoretical Study/Linux/Ubuntu Linux Command Line for Beginners.md",
     "PersonalLibrary/Political Study/Contemporary US/The Clintons Had Slaves_files/twitter.svg",
