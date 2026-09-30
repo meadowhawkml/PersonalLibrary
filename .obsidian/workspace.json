@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "89b7acd8a8614f7d",
+        "id": "4fd46cb94be5b2b2",
         "type": "tabs",
         "children": [
           {
-            "id": "e5e201bb5f8e0a56",
+            "id": "310b90db5f68080f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PersonalLibrary/Palestine Genocide Archive/Photos with descriptions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Photos with descriptions"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PersonalLibrary/Political Study/Notes/Notes on \"Lavender and Red\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PersonalLibrary/Political Study/Notes/Notes on \"Lavender and Red\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PersonalLibrary/Political Study/Notes/Notes on \"Lavender and Red\".md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,6 +188,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "04373c1da1c8f0ab",
-  "lastOpenFiles": []
+  "active": "310b90db5f68080f",
+  "lastOpenFiles": [
+    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_18201@21-08-2026_06-49-37.jpg",
+    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_18594@27-08-2026_01-08-44.jpg",
+    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_18873@01-09-2026_09-15-10.jpg",
+    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_19636@10-09-2026_23-39-21.jpg",
+    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_19760@11-09-2026_00-27-26.jpg",
+    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_19790@11-09-2026_01-14-32.jpg",
+    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_20880@20-09-2026_03-11-57.jpg",
+    "PersonalLibrary/Palestine Genocide Archive/Photos with descriptions.md",
+    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_20446@17-09-2026_06-54-04.jpg",
+    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_21199@22-09-2026_04-28-08.jpg",
+    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_19875@12-09-2026_03-02-40.jpg",
+    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_19900@12-09-2026_03-06-30.jpg",
+    "PersonalLibrary/Palestine Genocide Archive/Photos",
+    "PersonalLibrary/Political Study/Marxism-Leninism/stage-1-mlrh-curriculum.pdf",
+    "PersonalLibrary/Political Study/Notes/Notes on MLRH Stage 1.md",
+    "PersonalLibrary/Political Study/Lavender_and_Red.pdf",
+    "PersonalLibrary/Political Study/Notes/Notes on \"Lavender and Red\".md",
+    "PersonalLibrary/Political Study/The American Slave Coast.pdf",
+    "PersonalLibrary/Political Study/Notes/Notes on \"The American Slave Coast\".md",
+    "PersonalLibrary/Political Study/Notes"
+  ]
 }
