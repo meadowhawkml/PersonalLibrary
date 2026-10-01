@@ -275,3 +275,33 @@
 > 27/01/24, US UK Australia Japan and few other countries follow lead of US and stop funding Unrwa which will lead to genocide.
 
 
+![[WhatsApp Video 2025-12-19 at 3.03.09 AM.mp4]]
+
+> [!info]-
+> 22 Dec 2025, 14:51:31 GMT-8
+> 
+> Settlers intentionally run over a Palestinian man in Nablus A Palestinian man was injured after being run over by a settler vehicle on Amman Street, east of Nablus city in the occupied West Bank.
+
+
+![[video-24988.mp4]]
+
+> [!info]-
+> 02 Oct 2025, 17:00:00 GMT-7
+> 
+> IDF snuff video murdering two children in Gaza falsely claiming they were armed [Original post] The Israel Genocide Forces once again publish a video of Palestinians being murdered by drones. They claim these were "terrorists" armed with an RPG. They intentionally publish low-res videos, so objects could not be clearly identified, but what that guy's holding is NOT an RPG. [Found by: B.M.] [Location: Gaza]
+
+
+![[video_7977@02-07-2025_06-06-06.mp4]]
+
+> [!info]-
+> 01 Jul 2025, 20:06:06 GMT-7
+> 
+> 💔🇵🇸 Every child’s wound in \#Gaza is a cry for help in the face of the world’s silence. Every day, children emerge from the rubble, not to play, but to be treated for unintentional wounds. Their faces are covered in blood and dust, and their eyes are closed in pain and fear. In \#Gaza, childhood is being killed, and the bed, instead of being a place of rest, has become a place of healing. @The Children of Gaza
+
+![[video-14496.mp4]]
+
+> [!info]-
+> 29 Jan 2025, 16:00:00 GMT-8
+> 
+> The Palestinian identity and ideology must die [Original post] Psychopathic genocidal propagandist and former MK Einat Wilf: "Our enemy, our most bitter enemy, has always been Palestinianism.... Their identity, their ideology, is the enemy. The identity, the ideology, must die" From "Al Hamashmaut" podcast by Tamir Dortal, January 30, 2025 [Tags: Genocidal Intent, Dehumanization] [Found by: B.M.]
+

@@ -309,3 +309,27 @@
 > An unprecedented aggression and explosions that resonated for more than 100 km. The occupation forces bombed Gaza City with aircraft and artillery in conjunction with firing from helicopters and drones and carrying out bombing operations with crawlers packed with tons of explosives.
 
 
+![[photo_100733@09-06-2026_15-43-17.jpg]]
+
+> [!info]-
+> 09 Jun 2026, 05:43:17 gmt-7
+> 
+> https://www.instagram.com/reel/DZVZPYRIYaE/?igsh=MW9oN3pha3EzMzczdg== Palestinian prisoners Source: @ahmed .alkilani97 Posted 07 June 2026
+
+
+![[photo_14125@28-05-2026_09-29-19.jpg]]
+
+> [!info]-
+> 27 May 2026, 23:29:19 GMT-7
+> 
+> 🇵🇸 A Palestinian girl in Gaza wore her orange Eid dress while waiting to celebrate Eid al-Adha with her family. Minutes later, an Israeli missile struck their building, killing them all. Ten Palestinians were killed and dozens of neighbors were injured in the attack.
+
+
+![[photo_100049@26-05-2026_12-42-39.jpg]]
+
+> [!info]-
+> 26 May 2026, 02:42:39 GMT-7
+> 
+> https://www.instagram.com/reel/DYxAeAJsxtC/?igsh=MTI1bnEyazRodzFheA== "The infant child's foot was amputated." As horrifying as this scene is, it is the reality. The baby, Mohammad Al-Khatib, just one month old, was breastfeeding in his mother's arms inside a displacement tent when an Israeli helicopter fired a missile at them. His mother was killed immediately. Her infant son lost his foot before he ever had a chance to know life. His amputated foot was buried along with his mother's body. Source : eye.on.gaza
+
+
