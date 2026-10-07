@@ -6,6 +6,7 @@
       {
         "id": "a46ef220e2e7a6ca",
         "type": "tabs",
+        "dimension": 57.337367624810895,
         "children": [
           {
             "id": "598450f74f7118be",
@@ -18,12 +19,38 @@
               "icon": "lucide-file-text",
               "title": "The Genocide Will Be Automated"
             }
+          },
+          {
+            "id": "6c42300f8d03ea80",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PersonalLibrary/Palestinian Genocide/Analysis/Zionism from the Standpoint of its Victims.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Zionism from the Standpoint of its Victims"
+            }
+          },
+          {
+            "id": "97500830e2c9bc7a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PersonalLibrary/Political Study/Contemporary US/Drone Enlightenment/Introduction.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "14c7a36c0c0cd8f1",
         "type": "tabs",
+        "dimension": 42.662632375189105,
         "children": [
           {
             "id": "86e92065e93dfcfa",
@@ -38,8 +65,37 @@
               "icon": "lucide-file",
               "title": "Notes from *The Genocide Will Be Automated - Israel, AI and the Future of War* by Leila Katibah"
             }
+          },
+          {
+            "id": "d02292ae6b9febac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PersonalLibrary/Palestinian Genocide/Analysis/Notes from Zionism from the Standpoint of its Victims.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes from Zionism from the Standpoint of its Victims"
+            }
+          },
+          {
+            "id": "5bab458541482bd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PersonalLibrary/Political Study/Notes/Notes on \"Drone Enlightenment\".md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes on \"Drone Enlightenment\""
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0cad7e016e11e93f",
@@ -206,26 +263,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "86e92065e93dfcfa",
+  "active": "5bab458541482bd7",
   "lastOpenFiles": [
-    "PersonalLibrary/Palestinian Genocide/Analysis/Analysis of the Mechanisms of Genocide in Gaza as a Qualitative Rupture in the Perpetration of Imperialist Violence Globally.md",
-    "PersonalLibrary/Palestinian Genocide/Analysis/Notes from *The Genocide Will Be Automated - Israel, AI and the Future of War* by Leila Katibah.md",
+    "PersonalLibrary/Political Study/Contemporary US/Drone Enlightenment/Introduction.pdf",
+    "PersonalLibrary/Political Study/Notes/Notes on \"Drone Enlightenment\".md",
+    "PersonalLibrary/Political Study/Contemporary US/Drone Enlightenment/Notes",
+    "PersonalLibrary/Palestinian Genocide/Analysis/Notes from Zionism from the Standpoint of its Victims.md",
+    "PersonalLibrary/Political Study/Contemporary US/Drone Enlightenment/Epilogue-PublicityandMediation.pdf",
+    "PersonalLibrary/Political Study/Contemporary US/Drone Enlightenment/3-DeferredExtermination.pdf",
+    "PersonalLibrary/Political Study/Contemporary US/Drone Enlightenment/2-RemoteOccupation.pdf",
+    "PersonalLibrary/Political Study/Contemporary US/Drone Enlightenment/1-SovereignIrresponsibility.pdf",
+    "PersonalLibrary/Political Study/Contemporary US/Drone Enlightenment",
+    "PersonalLibrary/Palestinian Genocide/Analysis/Zionism from the Standpoint of its Victims.pdf",
     "PersonalLibrary/Palestinian Genocide/Analysis/The Genocide Will Be Automated.pdf",
+    "PersonalLibrary/Palestinian Genocide/Analysis/Notes from *The Genocide Will Be Automated - Israel, AI and the Future of War* by Leila Katibah.md",
+    "PersonalLibrary/Palestinian Genocide/Analysis/Analysis of the Mechanisms of Genocide in Gaza as a Qualitative Rupture in the Perpetration of Imperialist Violence Globally.md",
     "PersonalLibrary/Political Study/Lavender_and_Red.pdf",
-    "PersonalLibrary/Palestinian Genocide/Analysis",
     "PersonalLibrary/Political Study/Notes/Notes on \"Lavender and Red\".md",
     "PersonalLibrary/Palestinian Genocide/Videos with descriptions.md",
-    "PersonalLibrary/Palestinian Genocide/Videos/video-14496.mp4",
-    "PersonalLibrary/Palestine Genocide Archive/Videos/video_7977@02-07-2025_06-06-06.uO-SlBLv.mp4.part",
-    "PersonalLibrary/Palestinian Genocide/Videos/video_7977@02-07-2025_06-06-06.mp4",
-    "PersonalLibrary/Palestinian Genocide/Videos/video-24988.mp4",
-    "PersonalLibrary/Palestinian Genocide/Videos/WhatsApp Video 2025-12-19 at 3.03.09 AM.mp4",
     "PersonalLibrary/Palestinian Genocide/Photos with descriptions.md",
     "PersonalLibrary/Palestinian Genocide/Photos/photo_100049@26-05-2026_12-42-39.jpg",
     "PersonalLibrary/Palestinian Genocide/Photos/photo_14125@28-05-2026_09-29-19.jpg",
     "PersonalLibrary/Palestinian Genocide/Photos/photo_100733@09-06-2026_15-43-17.jpg",
-    "PersonalLibrary/Palestine Genocide Archive/Videos/video_2428@30-01-2024_20-40-32.VtnSp5U5.mp4.part",
-    "PersonalLibrary/Palestinian Genocide/Videos/video_2428@30-01-2024_20-40-32.mp4",
     "PersonalLibrary/Palestinian Genocide/Photos/photo_86142@16-09-2025_01-12-51.jpg",
     "PersonalLibrary/Palestinian Genocide/Photos/photo_3318@16-09-2025_13-48-15.jpg",
     "PersonalLibrary/Palestinian Genocide/Photos/photo_3361@17-09-2025_14-14-31.jpg",
