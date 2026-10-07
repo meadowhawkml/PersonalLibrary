@@ -4,21 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4fd46cb94be5b2b2",
+        "id": "a46ef220e2e7a6ca",
         "type": "tabs",
         "children": [
           {
-            "id": "310b90db5f68080f",
+            "id": "598450f74f7118be",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PersonalLibrary/Palestinian Genocide/Analysis/The Genocide Will Be Automated.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "The Genocide Will Be Automated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "14c7a36c0c0cd8f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86e92065e93dfcfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PersonalLibrary/Palestine Genocide Archive/Videos with descriptions.md",
+                "file": "PersonalLibrary/Palestinian Genocide/Analysis/Notes from *The Genocide Will Be Automated - Israel, AI and the Future of War* by Leila Katibah.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Videos with descriptions"
+              "title": "Notes from *The Genocide Will Be Automated - Israel, AI and the Future of War* by Leila Katibah"
             }
           }
         ]
@@ -188,33 +206,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "310b90db5f68080f",
+  "active": "86e92065e93dfcfa",
   "lastOpenFiles": [
-    "PersonalLibrary/Palestine Genocide Archive/Videos/video-14496.mp4",
-    "PersonalLibrary/Palestine Genocide Archive/Videos/video_7977@02-07-2025_06-06-06.uO-SlBLv.mp4.part",
-    "PersonalLibrary/Palestine Genocide Archive/Videos/video_7977@02-07-2025_06-06-06.mp4",
-    "PersonalLibrary/Palestine Genocide Archive/Videos/video-24988.mp4",
-    "PersonalLibrary/Palestine Genocide Archive/Videos/WhatsApp Video 2025-12-19 at 3.03.09 AM.mp4",
-    "PersonalLibrary/Palestine Genocide Archive/Photos with descriptions.md",
-    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_100049@26-05-2026_12-42-39.jpg",
-    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_14125@28-05-2026_09-29-19.jpg",
-    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_100733@09-06-2026_15-43-17.jpg",
-    "PersonalLibrary/Palestine Genocide Archive/Videos with descriptions.md",
-    "PersonalLibrary/Palestine Genocide Archive/Videos/video_2428@30-01-2024_20-40-32.VtnSp5U5.mp4.part",
-    "PersonalLibrary/Palestine Genocide Archive/Videos/video_2428@30-01-2024_20-40-32.mp4",
-    "PersonalLibrary/Palestine Genocide Archive/Videos/ssstwitter.com_1707936764167.mp4",
-    "PersonalLibrary/Palestine Genocide Archive/Videos/video_3624@16-02-2024_17-54-29.zsWoLtoV.mp4.part",
-    "PersonalLibrary/Palestine Genocide Archive/Videos/video_3624@16-02-2024_17-54-29.mp4",
-    "PersonalLibrary/Palestine Genocide Archive/Videos/video_4886@08-03-2024_05-10-19.xt3PThAD.mp4.part",
-    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_86142@16-09-2025_01-12-51.jpg",
-    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_3318@16-09-2025_13-48-15.jpg",
-    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_3361@17-09-2025_14-14-31.jpg",
-    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_3522@21-09-2025_14-18-19.jpg",
-    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_15316@03-10-2025_19-12-09.jpg",
-    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_87905@05-10-2025_13-32-58.jpg",
-    "PersonalLibrary/Palestine Genocide Archive/Photos/photo_15621@06-10-2025_08-39-55.jpg",
-    "PersonalLibrary/Political Study/Notes/Notes on MLRH Stage 1.md",
+    "PersonalLibrary/Palestinian Genocide/Analysis/Analysis of the Mechanisms of Genocide in Gaza as a Qualitative Rupture in the Perpetration of Imperialist Violence Globally.md",
+    "PersonalLibrary/Palestinian Genocide/Analysis/Notes from *The Genocide Will Be Automated - Israel, AI and the Future of War* by Leila Katibah.md",
+    "PersonalLibrary/Palestinian Genocide/Analysis/The Genocide Will Be Automated.pdf",
+    "PersonalLibrary/Political Study/Lavender_and_Red.pdf",
+    "PersonalLibrary/Palestinian Genocide/Analysis",
     "PersonalLibrary/Political Study/Notes/Notes on \"Lavender and Red\".md",
+    "PersonalLibrary/Palestinian Genocide/Videos with descriptions.md",
+    "PersonalLibrary/Palestinian Genocide/Videos/video-14496.mp4",
+    "PersonalLibrary/Palestine Genocide Archive/Videos/video_7977@02-07-2025_06-06-06.uO-SlBLv.mp4.part",
+    "PersonalLibrary/Palestinian Genocide/Videos/video_7977@02-07-2025_06-06-06.mp4",
+    "PersonalLibrary/Palestinian Genocide/Videos/video-24988.mp4",
+    "PersonalLibrary/Palestinian Genocide/Videos/WhatsApp Video 2025-12-19 at 3.03.09 AM.mp4",
+    "PersonalLibrary/Palestinian Genocide/Photos with descriptions.md",
+    "PersonalLibrary/Palestinian Genocide/Photos/photo_100049@26-05-2026_12-42-39.jpg",
+    "PersonalLibrary/Palestinian Genocide/Photos/photo_14125@28-05-2026_09-29-19.jpg",
+    "PersonalLibrary/Palestinian Genocide/Photos/photo_100733@09-06-2026_15-43-17.jpg",
+    "PersonalLibrary/Palestine Genocide Archive/Videos/video_2428@30-01-2024_20-40-32.VtnSp5U5.mp4.part",
+    "PersonalLibrary/Palestinian Genocide/Videos/video_2428@30-01-2024_20-40-32.mp4",
+    "PersonalLibrary/Palestinian Genocide/Photos/photo_86142@16-09-2025_01-12-51.jpg",
+    "PersonalLibrary/Palestinian Genocide/Photos/photo_3318@16-09-2025_13-48-15.jpg",
+    "PersonalLibrary/Palestinian Genocide/Photos/photo_3361@17-09-2025_14-14-31.jpg",
+    "PersonalLibrary/Palestinian Genocide/Photos/photo_3522@21-09-2025_14-18-19.jpg",
+    "PersonalLibrary/Palestinian Genocide/Photos/photo_15316@03-10-2025_19-12-09.jpg",
+    "PersonalLibrary/Palestinian Genocide/Photos/photo_87905@05-10-2025_13-32-58.jpg",
+    "PersonalLibrary/Palestinian Genocide/Photos/photo_15621@06-10-2025_08-39-55.jpg",
+    "PersonalLibrary/Political Study/Notes/Notes on MLRH Stage 1.md",
     "PersonalLibrary/Political Study/Notes/Notes on \"The American Slave Coast\".md"
   ]
 }

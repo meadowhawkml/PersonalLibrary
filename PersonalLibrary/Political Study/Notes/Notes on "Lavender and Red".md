@@ -50,6 +50,54 @@
 ### Fight against Paragraph 175 heats up
 
 
+> After 30 years of trailblazing work by Karl Heinrich Ulrichs, Benkert, and others, the first political movement of a mass character for sexual and gender rights emerged in Germany in1869. The demand for sexual and gender emancipation continued to draw backing from socialist leaders.
+> 
+> A year before the official emergence of this movement, Eduard Bernstein, then a Marxist and a leader of the German Social Democratic Party, wrote a defense of the gay British literary figure Oscar Wilde... Bernstein's article called on socialists to lead the way in sexual reform, challenged anti-gay prejudice and rejected the increasingly popular psychiatric theories that pathologized same-sex love.
+
+- The first gay liberation organization, the Scientific Humanitarian Committee, was born in Germany in 1897. 
+	- Its founder was Magnus Hirschfeld, a gay Jewish doctor who coined the word "transvestite", did extensive research, and produced germinal writings on the subject of cross-dressing.
+	- "\[The committee\] published a yearbook which reported on activities and documented literary, cross-cultural, cross-historical, and scientific studies on same-sex love and transgender."
+	- The committee's aims were to "abolish Paragraph 175, raise social consciousness and encourage sexually oppressed people to fight for their rights. To achieve its goals, the committee held regular public forums, organized speaking tours nationally and internationally, and sent literature to other governments about the need to decriminalize same-sex love."
+
+
+### Socialists of all sexualities unite
+
+> From its earliest days, the committee won support from revolutionaries, who were at the time called Social Democrats. In 1989, the committee took to parliament the signatures of 900 doctors, lawyers, educators, and scientists calling for the repeal of Paragraph 175. It was rebuffed.
+
+- Despite parliament's rebuff, the demand to repeal Paragraph 175 was supported by the socialist minority in parliament, the first major supporter being socialist leader August Bebel.
+	- Bebel was the author of "The Rights of Women", "an early socialist denunciation of the oppression of women under capitalism", who signed the petition and brought copies along with him to parliament and urged others to sign.
+
+### Rise of a mass movement
+
+> The committee carried on a whirlwing of activity. In 1899 it sent a letter to Roman Catholic priests asking them to take a stand on gay oppression and gay rights, sent information to parliament members, wrote to more than 2,000 daily newspapers, placed ads in newspapers, sent 8,000 letters to top administration and police officials, another to public prosecutors, and 8,000 copies of the petition to judges.
+> 
+> More than 6,000 prominent people, half of them doctors, signed the petition. Others included Albert Einstein, Leo Tolstoy, Emile Zola, Kathe Kollwitz, Hermann Hesse, Thomas Mann and Rainer Maria Rilke.
+> 
+> Well-known socialists of that period, including Bebel, Karl Kautsky, Rudolf Hilferding, Gerhardt Hauptman and Eduard Bernstein, also signed.
+
+- During another debate on Paragraph 175, the committee brought more than 5,000 signatures to parliament. The opposition to their motion was led by the Center Party, a right-wing group with support from the Catholic Church.
+	- Once again a socialist, Adolph Thiele, argued in favor of reform and, once again, reform was defeated.
+
+> In 1907 more than 2,000 people attended a public debate on Paragraph 175.
+> 
+> But this pinnacle of organizing was followed by a period of reaction that drove many supporters underground and forced activists to keep a lower profile. The opening shot of this anti-gay witch hunt was a highly publicized scandal about alleged gay activities by a number of high German political figures who were forced to stand trial.
+> 
+> In 1910, at the height of anti-gay frenzy, the parliament began to debate extending paragraph 175 to include lesbian acts between women.
+
+# Lesbians on the front lines of fight for rights, liberation
+
+> A proposed German penal code was drafted in late 1910 that would criminalize sexual acts between women.
+> 
+> Any law that threatened same-sex love between women was also inherently anti-transgender, since the oppressed populations overlapped. In 1721, for example, a German individual who was named Catharina Margaretha Linck at birth was burned at the stake for the crime of being a female-bodied person who lived as a male and married another woman.
+
+- Until 1794, Prussian legal code executed people of all sexes for "unnatural acts". In 1837 this was amended to a sentence of "imprisonment followed by life-long punishment."
+
+> The early Uranian movement had been mostly made up of individuals who taday might identify as gay men, male-to-female cross-dressers and transsexual women. However, as the Homosexual Emancipation Movement grew in social strength and weight, it emboldened lesbians to openly emerge as social leaders.
+
+### 'Reach for the stars!'
+
+- One of these lesbian social leaders was Anna Rueling, born Anna Theo Sprungli, who made a speech at a 1904 public meeting of the Scientific Humanitarian Committee titled "What interest does the women's movement have in solving the homosexual question?".
+	- "In it she stressed the imperative of unity between the women's and homosexual emancipation movements. But the talk was essentially calling for unity against transgender oppression, as well, since Rueling -- like many rights activists of that era -- considered homosexuals to be a kind of intermediate sex. She called for equal opportunities in education and the job market for women, men, and homosexuals."
 
 
 
