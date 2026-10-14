@@ -64,6 +64,39 @@ Aside from slave labor, the serfs of Middle Ages lords and the journeymen in pre
 > The serf liberates himself in one of three ways: either he runs away to the city and there becomes a handicraftsman; or, instead of products and services, he gives money to his lord and thereby becomes a free tenant; or he overthrows his feudal lord and himself becomes a property owner. In short, by one route or another, he gets into the owning class and enters into competition. The proletarian liberates himself by abolishing competition, private property, and all class differences.
 
 
+##### In what way to proletarians differ from handicraftsmen?
+
+
+> In contrast to the proletarian, the so-called handicraftsman, as he still existed almost everywhere in the 18th century and still exists here and there at present, is a temporary proletarian at most. His goal is to acquire capital himself to then exploit other workers. He can often achieve this goal where guilds still exist or where freedom from guild restrictions has not yet led to the introduction of factory-style methods into the crafts, nor yet to fierce competition. But as soon as the factory system has been introduced into the crafts and competition flourishes fully, this perspective dwindles away and the handicraftsman becomes more and more a proletarian. The handicraftsman therefore frees himself by becoming either bourgeois or entering the middle class in general, or becoming a proletarian because of competition (as is now more often the case). In which case he can free himself by joining the proletarian movement, i.e., the more or less communist movement.
+
+##### In what ways to proletarians differ from manufacturing workers?
+
+> The manufacturing worker of the 16th to 18th centuries still had, with but few exceptions, an instrument of production in his own possession: his loom, the family spinning wheel, a little plot of land which he cultivated in his spare time. The proletarian has none of these things.
+> 
+> The manufacturing worker almost always lives in the countryside and in a more or less patriarchal relation to his landlord or employer; the proletarian lives, for the most part, in the city and his relation to his employer is purely a cash relation.
+> 
+> The manufacturing worker is torn out of his patriarchal relation by big industry, loses whatever property he still has, and in this way becomes a proletarian.
+
+##### What were the immediate consequences of the industrial revolution and of the division of society into bourgeoisie and proletariat?
+
+> *First*, the lower and lower prices of industrial products brought about by machine labor totally destroyed, in all countries of the world, the old system of manufacture or industry based upon hand labor.
+> 
+> In this way, all semi-barbarian countries, which had hitherto been more or less strangers to historical development, and whose industry had been based on manufacture, were violently forced out of their isolation. They bought the cheaper commodities of the English and allowed their own manufacturing workers to be ruined. Countries which had known no progress for thousands of years -- for example, India -- were thoroughly revolutionized, and even China is now on the way to revolution.
+> 
+> We have come to the point where a new machine invented in England deprives millions of Chinese workers of their livelihood within a year's time.
+> 
+> In this way, big industry has brought all the people of the Earth into contact with each other, has megred all local markets into one world market, has spread civilization and progress everywhere and has thus ensured that whatever happens in civilized countries will have repercussions in all other countries.
+> 
+> It follows that if the workers in England or France now liberate themselves, this must set off revolution in all other countries -- revolutions which, sooner or later, must accomplish the liberation of their respective working class.
+
+- While it remains to be seen whether this last statement by Engels was correct, we can certainly see the historical reality of the rest of this statement.
+
+> *Second*, wherever big industries displaced manufacture, the bourgeoisie developed wealth and power to the utmost and made itself the first class of the country. The result was that wherever this happened, the bourgeoisie took political power into its own hands and displaced the hitherto ruling classes, the aristocracy, the guildmasters, and their representative, the absolute monarchy.
+> 
+> The bourgeoisie annihilated the power of the aristocracy, the nobility, by abolishing the entailment of estates; in other words, by making landed property subject to purchase and sale, and by doing away with the special privileges of the nobility. It destroyed the power of the guildmasters by abolishing guilds and handicraft privileges. In their place, it put competition; that is, a state of society in which everyone has the right to enter into any branch of industry, the only obstacle being a lack of the necessary capital.
+> 
+> The introduction of free competition is thus public declaration that, from now on, the members of society are unequal only to the extent that their capitals are unequal, that capital is the decisive power, and that therefore the capitalists, the bourgeoisie, have become the first calss in society.
+
 
 
 
